@@ -19,7 +19,7 @@ The analysis is performed on the standard `train_dataset(1).csv` from the Titani
 
 * `original_titanic_eda.ipynb`: The Jupyter Notebook containing the Python code for the entire EDA process.
 * `train_dataset(1).csv`: The dataset used for the analysis.
-* `image_abe4c0.png`: The analysis which i was done and i was attached my analysis as an image.
+
 
 ## Key EDA Steps and Methodologies
 
